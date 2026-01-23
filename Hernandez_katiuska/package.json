@@ -1,0 +1,15 @@
+{
+  "name": "hernandez_katiuska",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trabajoPracticoIntegrador_HernandezKatiuska.js",
+  "scripts": {
+    "start": "node trabajoPracticoIntegrador_HernandezKatiuska.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
